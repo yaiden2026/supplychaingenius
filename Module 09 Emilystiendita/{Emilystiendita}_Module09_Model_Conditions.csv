@@ -1,0 +1,2 @@
+max_dcs,cost_per_unit_distance,method_to_calculate_distance
+2,1,manhattan
