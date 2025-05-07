@@ -1,0 +1,25 @@
+from,to,cost_per_unit_shipped,transportation_method,congestion_level
+1,2,21,Diesel Rail,70
+1,3,20,Air Freight,104
+1,6,16,Slow Steaming Cargo Ships,88
+2,1,9,Diesel Rail,102
+2,5,18,Diesel Rail,93
+3,1,8,Cargo Ships (Heavy Fuel Oil),88
+3,4,21,Cargo Ships (Heavy Fuel Oil),85
+3,5,22,Slow Steaming Cargo Ships,70
+3,6,18,Slow Steaming Cargo Ships,98
+4,2,22,Electrified Rail,72
+4,3,8,Slow Steaming Cargo Ships,94
+4,5,24,Air Freight,92
+4,7,22,Diesel Trucks,36
+5,2,16,Diesel Trucks,82
+5,4,12,Cargo Ships (Heavy Fuel Oil),91
+5,6,19,Diesel Rail,89
+5,7,24,Diesel Trucks,93
+6,3,22,Air Freight,25
+6,4,24,Air Freight,93
+6,5,5,Slow Steaming Cargo Ships,88
+6,7,15,Electric/Hybrid Trucks,102
+7,3,24,Diesel Rail,107
+7,4,13,Electric/Hybrid Trucks,85
+7,5,6,Diesel Trucks,96
